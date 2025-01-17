@@ -1,6 +1,6 @@
 # Projeto Transporte
 
-**Aluno:** Eduardo Barbosa Rodrigues - CB302637X
+**Aluno:** Vinícius Pontes Oliva - CB3025764
 
 ## Descrição
 
